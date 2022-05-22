@@ -2,6 +2,9 @@ import Button from '../Button';
 import Logo from './Logo';
 import Navbar from '../Navbar';
 
+// imort css
+import './header.css';
+
 export default function Header() {
   // const event login
   const login = () =>  alert('login') ;
